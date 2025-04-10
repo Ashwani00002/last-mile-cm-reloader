@@ -3,5 +3,5 @@
   "URL": "<DynamoDB-URL>",
   "HOST": "<HTTP_DynamoDB_HOST>",
   "REGION": "ap-south-1",
-  "APP_MODE": "stagiiiiing"
+  "APP_MODE": "stagiiiing"
 }
