@@ -5,19 +5,3 @@
   "REDIS_URL": "redis://user:password@hostname:port",
   "APP_MODE": "staging"
 }
-
-Production
-M1
-  config/config.json
-M2
-config/config.json
-
-Staging
-M1
-  config/config.json
-M2
-config/config.json
-
-
-
-Jenkinsfile
