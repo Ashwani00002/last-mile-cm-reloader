@@ -3,5 +3,21 @@
   "DATABASE_URL": "postgres://user:password@hostname:port/database",
   "API_KEY": "<your_staging_api_key_here>",
   "REDIS_URL": "redis://user:password@hostname:port",
-  "APP_MODE": "stagiiiIIIing"
+  "APP_MODE": "staging"
 }
+
+Production
+M1
+  config/config.json
+M2
+config/config.json
+
+Staging
+M1
+  config/config.json
+M2
+config/config.json
+
+
+
+Jenkinsfile
