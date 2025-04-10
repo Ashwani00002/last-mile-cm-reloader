@@ -4,5 +4,5 @@
   "API_KEY": "<your_staging_api_key_here>",
   "REDIS_URL": "redis://user:password@hostname:port",
   "LOG_LEVEL": "DEBUG",
-  "APP_MODE": "stagiiiiing"
+  "APP_MODE": "stagiiiIIIing"
 }
