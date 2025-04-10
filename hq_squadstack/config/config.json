@@ -3,6 +3,6 @@
   "DATABASE_URL": "postgres://user:password@hostname:port/database",
   "API_KEY": "<your_staging_api_key_here>",
   "REDIS_URL": "redis://user:password@hostname:port",
-  "APP_MODE": "stagiiiing"
+  "APP_MODE": "stagiiing"
 }
 
