@@ -1,7 +1,7 @@
 { 
-  "ENV": "STG",
+  // "ENV": "STG", 
   "URL": "<DynamoDB-URL>",
   "HOST": "<HTTP_DynamoDB_HOST>",
   "REGION": "ap-south-1",
-  "APP_MODE": "stagIiiing"
+  "APP_MODE": "stagiiing"
 }
